@@ -1,0 +1,8 @@
+
+.DS_Store
+data/raw
+data/exp1
+data/exp2
+.Rproj.user
+.Rproj
+scratch

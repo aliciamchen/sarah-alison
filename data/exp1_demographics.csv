@@ -1,0 +1,60 @@
+subject_id,time_elapsed,gender,age,understood,pass_attention,comments
+1be883cc5b34d9c7a6f55b06acf1e62c,360060,female,46,yes,TRUE,NA
+850b781d0f6eeb84a6108569a2b4cf5a,416311,female,31,yes,TRUE,NA
+2bba51f598bf1087f5e74d21f051df46,627320,female,28,yes,TRUE,"Sometimes it was ambiguous whether two people who liked to do something ""after work"" shared a workplace, or if two people who lived ""on the same floor/building"" were roommates. This might have been intentional for the purpose of the study, but I thought it was worth noting since sometimes it was more clear (ie. referring to ""[both of] their work/office"")"
+c9bfabff0d8fa38070537141b29ff789,893498,male,36,yes,TRUE,NA
+3ce9276d913e6a149812483b81cff182,565163,male,37,yes,TRUE,Best wishes in your research
+6c31878e71d7d119fafc7c6b87f6db45,2131000,male,29,yes,TRUE,NA
+667e29c125cb666d3759f6d60e0b7de2,673390,male,31,yes,TRUE,NA
+66a3839fa40137fba0cfd575fd641474,467993,male,38,yes,TRUE,NA
+11ad2f27bdc01cfb863384e166232943,1216285,male,30,yes,TRUE,Thank you for the opportunity to participate!
+a3e2417176eb79b2004689d92166dfaa,365555,female,48,yes,TRUE,NA
+dc9074789a88229b9249fcdab09011f4,747844,female,54,yes,TRUE,NA
+7cdd3cd4fa569c1b6dbcb0691ef20664,697186,male,23,yes,TRUE,NA
+0662ed0c251e1c694de17b17651d0e2d,942976,male,43,yes,TRUE,NA
+0681c8a75433d1408598856473e574a4,510135,female,26,yes,TRUE,NA
+c9fdf88c1ccccccd9b088a98cb602982,1470562,male,54,yes,TRUE,NA
+134f065d91d3d044ddb7056a12d0c891,578875,female,23,yes,TRUE,NA
+afe82f326973d8d8040d23658d803df2,2013153,female,31,yes,TRUE,NA
+4fedfe5f2dcf3c91808b409f0d318c38,387408,female,21,yes,TRUE,NA
+807148c0ae75012a2a26ab603225a9a6,1051876,male,30,yes,TRUE,NA
+694eb3e91e0ab3dd8d8c8f15abec20bc,2042663,female,72,yes,TRUE,NA
+2fb540223de54bbebaf72193d83a52d8,543761,female,52,yes,TRUE,none
+5843ea9c4f0b12dc67199c17f27a8229,434143,male,30,yes,TRUE,NA
+b659cfb56b428829b673a287fb7b003f,417538,male,47,yes,TRUE,NA
+0fa2e0be3b47ef371e13f67d22ca565f,906000,female,41,yes,TRUE,No
+1b32a44e3b4b681add96422daaaeb745,330777,male,29,yes,TRUE,NA
+de69cddc1ad5a0d96779f8fbd4540c2c,299072,male,34,yes,TRUE,NA
+35b35da3c893eb6eb6c936ffd0e1cf6f,741041,male,65,yes,TRUE,None
+a99662160f92ea5f8839bcc2ab9a2b41,797636,nonconforming,25,yes,TRUE,none
+5aca9b3af4fb87da4e45f9e5873c19d5,838257,nonconforming,30,yes,TRUE,NA
+5b878a68f757c22f2f647a9fcec4f267,412922,male,24,yes,TRUE,NA
+243873b70859167d0b2182621e7a7623,430936,female,37,yes,TRUE,NA
+a8ec108a7daba946414738add368088e,753775,male,39,yes,TRUE,NA
+3ec510d947a45381ca05bb3dc9a8a750,635246,female,23,yes,TRUE,NA
+0251ea533ed08c3c307ace9da8c54cbd,379632,female,22,yes,TRUE,NA
+fb18f44bf70d83b2358acbfa5d074d61,595804,female,23,yes,TRUE,NA
+9c714ea214200f94d367e6b5acd68753,707389,female,21,yes,TRUE,NA
+81a59e3b3c0eacff4ac20e7ea5ebb4f4,761453,male,19,yes,TRUE,NA
+42309471bad8ffb6e9d0eb8511f3d801,1160001,female,33,yes,FALSE,NA
+084076380dc65a1f2b31110267c694a2,373114,female,20,yes,TRUE,NA
+3007604169e529d265fa37e1dc6cf0ca,1597321,male,31,yes,TRUE,NA
+1e491eeb5d0162d64e8d80ebaad7f65f,626401,female,22,yes,TRUE,I was confused the first couple of questions
+966354eddc574d64f358b5393c1614f0,653694,female,20,yes,TRUE,NA
+a5f7d665cc557f9444e4dcbbfc3ea523,582869,female,20,yes,TRUE,NA
+a0b794628a72def95eba0125da6bc308,692032,female,53,yes,TRUE,I think it was a little confusing at first but then I figured it out.
+8459c60480599e125efbe61daf26ade4,826449,male,22,yes,TRUE,NA
+72bc18a95373b7fcfa158c7890d6cba1,482444,female,23,yes,TRUE,NA
+185cd8b0805f5c79aab8dbb5ac80c170,518330,male,25,yes,TRUE,great work
+c90cf0da2e351464da83dcf46ef07ca1,672093,male,42,yes,TRUE,N/A
+d9bddcaea44a3af674c82de2bbf38962,1254814,male,65,yes,TRUE,Some tricky relationships where one or other (asymetric or symmetric) could have been the possible answer. I answered the best I could given the information on these relationships. Cheers.
+a3ae4ff65440bd87962bfaeacceb433b,528202,female,26,yes,TRUE,NA
+cf1c1181174e533131996a02beedf522,1204039,male,22,yes,TRUE,NA
+5a4e87f3a174cfc598b627b500052478,558595,female,51,yes,FALSE,NA
+1fc1e8188cb5de9e811dc4f90131184d,413787,male,30,yes,TRUE,NA
+672e9c8227311344c63649d3216e68fd,910569,male,26,yes,TRUE,NA
+39e17864a3afe8802ff81c0e5bf3a828,767474,male,35,yes,TRUE,NA
+97f3534f5da5a82d1cb1dc0ad2e100db,1128618,female,50,yes,TRUE,fun study
+2f1104abaf6a7556fbd301a3d797719f,641720,male,34,yes,TRUE,"The survey looked and felt good, it made me think and reread the question on several occasions."
+a4606e261e2117e5159faddd21c59bf7,351446,male,35,yes,FALSE,NA
+4575ead9703cfbbbedf1d0ee5b79f03d,398094,male,28,yes,TRUE,NA
